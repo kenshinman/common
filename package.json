@@ -2,6 +2,10 @@
   "name": "@kenshindev/common",
   "version": "1.0.4",
   "description": "Common helpers across microservices",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenshinman/common.git"
+  },
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
